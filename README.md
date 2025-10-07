@@ -5,7 +5,7 @@
 4. Run: `streamlit run app.py`
 
 ## Live Demo
-[<image-card alt="Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" ></image-card>]
+[<image-card alt="Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" ></image-card>]  # Update with your URL
 
 ## Features
 - Auto/manual sentiment detection (positive/negative/neutral).
