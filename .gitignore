@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Virtual env
+.venv/
+
+# Temp files
+command.txt
+*.log
+
+# OS/IDE
+.DS_Store
+.vscode/
